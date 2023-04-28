@@ -1,5 +1,5 @@
-                        Getting and Cleaning Data (Coursera: John Hopkins)
-                        Human Activity Recognition Using Smartphones Dataset
+Getting and Cleaning Data (Coursera: John Hopkins)
+Human Activity Recognition Using Smartphones Dataset
 
 While the run_analysis.R script file contains detailed steps as to how the code runs, this code book hopes to provide further explanation on how the "Human Activity Recognition Using Smartphones Dataset" from Smartlab was cleaned. 
 
